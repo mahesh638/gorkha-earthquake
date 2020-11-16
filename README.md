@@ -4,3 +4,11 @@ This project is a takes up a regression problem to find out a relationship betwe
 <br/>
 ![Nepal](/Doc/nepal-quake-bm-2.jpeg)
 <br/>
+<br/>
+The dataset can be downloading from this link: https://www.drivendata.org/competitions/57/nepal-earthquake/
+<br/> 
+The target variable is 'damage_grade' has 3 categories( 1: Low Damage, 2: Medium amount of damage, 3: Almost complete destruction)
+<br/>
+The description of the independent variable are available here: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/
+<br/>
+<br/>
