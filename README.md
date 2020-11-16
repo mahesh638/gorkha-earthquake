@@ -1,5 +1,5 @@
 # gorkha-earthquake
-This project is a takes up a regression problem to find out a relationship between the building location and construction in Nepal and the damages they had been subject to in the 2015 Gorkha Earthquake in the SAS coding languag. The project was part of my 'Data Analysis and Interpreation Capstone' course on www.coursera.org from the Wesleyan University. 
+This project is a takes up a regression problem to find out a relationship between the building location and construction in Nepal and the damages they had been subject to in the 2015 Gorkha Earthquake in the SAS coding language. The project was part of my 'Data Analysis and Interpreation Capstone' course on www.coursera.org from the Wesleyan University. 
 <br/>
 <br/>
 ![Nepal](/Doc/nepal-quake-bm-2.jpeg)
